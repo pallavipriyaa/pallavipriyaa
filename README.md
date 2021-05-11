@@ -2,8 +2,13 @@
 
 ✔︎ Frontend Developer | Graphic Designer | Freelancer ✔︎
 
+
 - 👋 Hi, I’m Pallavi Priya.
+
 - 👀 I’m interested in Web Development.
+
 - 🌱 I’m currently learning Java.
-- 🎓 I'm currently pursuing diploma in Computer Science and Engineering.   
+
+- 🎓 I'm currently pursuing diploma in Computer Science and Engineering.
+   
 - 💫 Eat, Code, Sleep, Repeat.
