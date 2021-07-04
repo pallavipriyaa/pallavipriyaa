@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Web Development.
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning.
 
 - 🎓 I'm currently pursuing diploma in Computer Science and Engineering.
    
