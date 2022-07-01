@@ -9,6 +9,6 @@
 
 - 🌱 I’m currently learning.
 
-- 🎓 I'm currently pursuing diploma in Computer Science and Engineering.
+- 🎓 I'm currently pursuing B.TEch in Computer Science and Engineering(Cyber Security).
    
 - 💫 Eat, Code, Sleep, Repeat.
